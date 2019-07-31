@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
+//ganti ssuatu
 import { withTheme } from '../config';
 
 import IOSSearchBar from './SearchBar-ios';
